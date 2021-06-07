@@ -139,7 +139,7 @@ a:link {
 }
 
 a:visited {
-  color: rgb(224, 88, 88);
+  color: rgb(112, 12, 12);
 }
 
 a:focus {
@@ -174,5 +174,4 @@ nav li {
 
 .nav-list a {
   text-decoration: none;
-  color: #592323;
 }
