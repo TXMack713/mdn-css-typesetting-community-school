@@ -158,5 +158,13 @@ a:active {
 }
 
 ul {
-  list-style-type: circle;
+  list-style-type: square;
+}
+
+nav li {
+  border: 2px solid #a66;
+  padding: 10px;
+  text-align: center;
+  background-color: sandybrown;
+  text-decoration: none;
 }
