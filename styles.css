@@ -86,7 +86,7 @@ body {
   font-family: 'Cardo Regular', Arial, sans-serif;
   font-size: 10px;
   line-height: 1.5;
-  word-spacing: 0.2rem;
+  word-spacing: 0.1rem;
   letter-spacing: 0.0875rem;
 }
 
@@ -128,6 +128,6 @@ h6 {
   font-size: 1.2rem;
 }
 
-section > h2 > p:first-child {
+p {
   text-indent: 0.2rem;
 }
