@@ -175,3 +175,7 @@ nav li {
 .nav-list a {
   text-decoration: none;
 }
+
+img {
+  background-size: 1rem 1rem;
+}
