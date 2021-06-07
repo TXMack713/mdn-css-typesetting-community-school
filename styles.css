@@ -156,3 +156,7 @@ a:active {
   color: white;
   background-color: #a66;
 }
+
+ul {
+  list-style-type: circle;
+}
